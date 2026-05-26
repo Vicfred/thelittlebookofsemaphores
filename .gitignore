@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Allow project metadata
+!.gitignore
+!LICENSE
+!README.md
+
+# Allow C++ source files
+!*.cpp
