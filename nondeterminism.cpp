@@ -1,3 +1,4 @@
+// clang++ -std=c++17 -Wall -Wextra -pedantic nondeterminism.cpp -pthread -o nondeterminism
 #include <chrono>
 #include <cstdint>
 #include <iostream>
